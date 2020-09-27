@@ -118,8 +118,8 @@ jalan("\033[1;93m To get any help join our Facebook Group \033[1;96m(Cyber-39)."
 
 jalan("\033[1;96m◈===============◈      \033[1;92mLet's start     \033[1;96m◈===============◈")
 
-CorrectUsername = "Sakhawat26"
-CorrectPassword = "1926"
+CorrectUsername = "Noman39"
+CorrectPassword = "8535"
 
 
 loop = 'true'
