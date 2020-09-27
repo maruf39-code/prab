@@ -57,8 +57,8 @@ logo = """
 \033[1;96m    ____) | (_| |   <| | | | (_| |\ V  V / (_| | |_ 
 \033[1;92m   |_____/ \__,_|_|\_\_| |_|\__,_| \_/\_/ \__,_|\__|
                                                   
-\033[1;93m     Facebook : www.facebook.com/groups/cyberzone360    
-\033[1;93m     YouTube  : TiPS&TRiCKS 360
+\033[1;93m     Facebook :https://www.facebook.com/groups/155073338414040/?ref=share
+\033[1;93m     YouTube  :  Noman Official 
 \033[1;96m ♦♦♦================================================♦♦♦
 """
 def tik():
@@ -93,7 +93,7 @@ print  """s
 \033[1;93m║║ ╔╣║ ║║╔╗║║═╣╔╝ ╔╝╔╝║╔╗║╔╗╣║═╣
 \033[1;93m║╚═╝║╚═╝║╚╝║║═╣║ ╔╝ ╚═╣╚╝║║║║║═╣
 \033[1;93m╚═══╩═╗╔╩══╩══╩╝ ╚════╩══╩╝╚╩══╝
-\033[1;93m    ╔═╝║ \033[1;92m www.fb.com/groups/cyberzone360
+\033[1;93m    ╔═╝║ \033[1;92m https://www.facebook.com/groups/155073338414040/?ref=share
 \033[1;93m    ╚══╝ 
                                                                                                                                                                                                                              
 """
@@ -114,7 +114,7 @@ jalan("\033[1;91m Do everything on your own risk.")
 jalan("\033[1;93m I'm not responsible for any illegal activities.")
 jalan("                                          ---\033[1;92m𝕊𝕒𝕜𝕙𝕒𝕨𝕒𝕥")	
 
-jalan("\033[1;93m To get any help join our Facebook Group \033[1;96m(Cyber Zone).")
+jalan("\033[1;93m To get any help join our Facebook Group \033[1;96m(Cyber-39).")
 
 jalan("\033[1;96m◈===============◈      \033[1;92mLet's start     \033[1;96m◈===============◈")
 
@@ -136,7 +136,7 @@ while (loop == 'true'):
 
     else:
         print "\033[1;91mWrong!,\033[1;92mjoin our FB Group to get the correct username"
-        os.system('xdg-open https://facebook.com/groups/cyberzone360')
+        os.system('xdg-open https://www.facebook.com/groups/155073338414040/?ref=share')
 
 
 def login():
