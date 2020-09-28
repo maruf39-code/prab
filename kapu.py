@@ -58,7 +58,7 @@ logo = """
 \033[1;92m   |_____/ \__,_|_|\_\_| |_|\__,_| \_/\_/ \__,_|\__|
                                                   
 \033[1;93m     Facebook :https://www.facebook.com/groups/155073338414040/?ref=share
-\033[1;93m     YouTube  :Noman Official 
+\033[1;93m     YouTube  :Noman Official!
 \033[1;96m ♦♦♦================================================♦♦♦
 """
 def tik():
